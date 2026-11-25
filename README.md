@@ -18,5 +18,3 @@
 
 練習紀錄存在瀏覽器的 localStorage 裡，換瀏覽器或清除網站資料後紀錄就不會保留。
 
-## 使用 GitHub Pages
-到儲存庫的 Settings → Pages，Source 選 `Deploy from a branch`，Branch 選 `main`、資料夾選 `/ (root)`，存檔後過一兩分鐘就能用網址打開。
